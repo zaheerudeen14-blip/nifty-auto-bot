@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+requests
+pandas
+apscheduler
+python-dotenv
+pyotp
+supabase
